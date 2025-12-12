@@ -16,3 +16,6 @@ pending
 
 ## Keywords
 SAM3, Segment Anything Model, SAMv3, YOLO11, Instance Segmentation, Zero-Shot Learning, Agricultural Vision
+
+## Data Availability
+The MinneApple dataset used in this study is publicly available at [https://github.com/nicolaihaeni/MinneApple](https://github.com/nicolaihaeni/MinneApple) and was accessed on December 12, 2025.
